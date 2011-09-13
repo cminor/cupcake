@@ -1,5 +1,5 @@
-Cupcake.js - New Wave JavaScript
-================================
+Cupcake.js
+==========
 
 Just for fun.
 
